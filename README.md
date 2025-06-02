@@ -25,7 +25,9 @@ The course contains 5 lessons:
 - Lesson 4: Visualising data in python
 - Lesson 5: How to structure a data project
 
-Each notebook file is a **lesson** that includes:
+Lesson 1 is a short overview of data basics, including data types and descriptive statistics. No code yet - just a brief introduction!
+
+From lesson 2, each notebook file is a **lesson** that includes:
 - 🧠 Code examples explained in plain English
 - 🧪 A challenge to try things yourself
 
