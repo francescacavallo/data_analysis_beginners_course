@@ -24,14 +24,10 @@ The course contains 5 lessons:
 - Lesson 3: Analysing data in python
 - Lesson 4: Visualising data in python
 - Lesson 5: How to structure a data project
-  
----
 
-## 📂 Course Structure
-
-Each folder is a **lesson** that includes:
-- 🧠 `lesson.ipynb`: Code examples explained in plain English
-- 🧪 `challenge.ipynb`: Try it yourself!
+Each notebook file is a **lesson** that includes:
+- 🧠 Code examples explained in plain English
+- 🧪 A challenge to try things yourself
 
 ---
 
