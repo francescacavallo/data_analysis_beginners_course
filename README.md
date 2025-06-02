@@ -1,25 +1,27 @@
-# 🐍 Python for Absolute Beginners
+# 📊 Data Analytics for Absolute Beginners
 
-Welcome to the **Python for Beginners** course! If you're just starting your coding journey — you’re in the right place.
+Welcome to **Data Analytics for Beginners** — if you're just starting your data journey, you're in the right place!
 
-This course is beginner-friendly, no experience needed.
+No coding experience? No problem. This course will walk you through the basics of using **Python for data analysis** — step by step.
 
 ---
 
 ## 🎯 What You’ll Learn
 
-- ✅ Python basics (variables, data types, loops, functions)
-- ✅ Simple projects to practice and build confidence
-- ✅ How to read, write, and run Python code
-- ✅ Coding mindset: think like a developer!
+- ✅ What data analytics is (and why it matters)
+- ✅ Python basics for data work
+- ✅ How to use **Pandas** and **Matplotlib**
+- ✅ Cleaning, analszing, and visualising real-world data
+- ✅ Mini-projects you can test your skills with
 
 ---
 
 ## 📂 Course Structure
 
-Each folder is a **lesson** with:
-- ✏️ `lesson.py`: Code examples with explanations
-- ✅ `challenge.py`: A small task for you to try on your own
+Each folder is a **lesson** that includes:
+- 🧠 `lesson.py`: Code examples explained in plain English
+- 🧪 `challenge.py`: Try it yourself!
+- 📁 `data/`: Sample datasets to practice with
 
 ---
 
