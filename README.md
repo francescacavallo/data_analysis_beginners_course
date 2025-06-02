@@ -33,6 +33,6 @@ Each notebook file is a **lesson** that includes:
 
 ## 🚀 How to Start
 
-1. Open a folder and click on the .ipynb file
+1. Open a .ipynb file
 2. At the top of the file, click "open in colab"
 3. In the colab notebook, click File -> Save a copy
