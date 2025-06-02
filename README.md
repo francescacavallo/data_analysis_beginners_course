@@ -11,17 +11,27 @@ No coding experience? No problem. This course will walk you through the basics o
 - ✅ What data analytics is (and why it matters)
 - ✅ Python basics for data work
 - ✅ How to use **Pandas** and **Matplotlib**
-- ✅ Cleaning, analszing, and visualising real-world data
+- ✅ Cleaning, analsing, and visualising real-world data
 - ✅ Mini-projects you can test your skills with
 
+---
+
+## 📂 Course Content
+
+The course contains 5 lessons:
+- Lesson 1: Data basics
+- Lesson 2: Python basics
+- Lesson 3: Analysing data in python
+- Lesson 4: Visualising data in python
+- Lesson 5: How to structure a data project
+  
 ---
 
 ## 📂 Course Structure
 
 Each folder is a **lesson** that includes:
-- 🧠 `lesson.py`: Code examples explained in plain English
-- 🧪 `challenge.py`: Try it yourself!
-- 📁 `data/`: Sample datasets to practice with
+- 🧠 `lesson.ipynb`: Code examples explained in plain English
+- 🧪 `challenge.ipynb`: Try it yourself!
 
 ---
 
